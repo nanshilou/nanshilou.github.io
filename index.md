@@ -2,7 +2,7 @@
 ---
 ![本地图片](https://nanshilou.github.io/bioin.jpg)
 # 生物信息学Class 1
-## 致理-生31 胡刘钰滨 2023012433
+---
 ## 课堂笔记
 ### 一、课程大纲
 主要介绍了课程的一些参考资料和给分标准，对我比较有用的是学习和参考资料方面的介绍。[相关资源](https://book.ncrnalab.org/teaching/appendix/appendix1.keep-learning)
