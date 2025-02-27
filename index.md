@@ -1,8 +1,9 @@
+![本地图片](https://nanshilou.github.io/生信.jpg)
 # 生物信息学Class 1
 ## 致理-生31 胡刘钰滨 2023012433
 ## 课堂笔记
 ###  （一）课程大纲
-主要介绍了课程的一些参考资料和给分标准，对我比较有用的是学习和参考资料方面的介绍，[相关资源]([Appendix I. Keep Learning | Bioinformatics Tutorial](https://book.ncrnalab.org/teaching/appendix/appendix1.keep-learning))
+主要介绍了课程的一些参考资料和给分标准，对我比较有用的是学习和参考资料方面的介绍。[相关资源](https://book.ncrnalab.org/teaching/appendix/appendix1.keep-learning)
 ### （二）生物信息学的基本流程
 - 首先起源于一个生物学问题，
 - 获取相关的数据，如核酸序列。
@@ -29,9 +30,8 @@
 - 熟练使用常用的生物信息学工具和数据库。
 - 能够进行简单的生物数据分析和项目实践。
 ### 二、学习内容与安排
-#### （一）第1 - 4周：基础知识学习与工具熟悉
+#### （一）第1 - 4周：基础知识学习
 - **学习内容**：
-    - 生物信息学的基本概念和研究领域。
     - 常用生物信息学数据库的使用方法。
     - 基本的生物信息学分析工具（如BLAST）的操作。
 - **具体安排**：
